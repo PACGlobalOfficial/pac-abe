@@ -80,6 +80,7 @@ CHAIN_CONFIG = [
     {"chain":"CryptoCash"},
     {"chain":"Anoncoin", "policy":"Sha256Chain",
      "code3":"ANC", "address_version":"\x17", "magic":"\xFA\xCA\xBA\xDA" },
+    {"chain":"PacTestnet"},
     {"chain":"Hirocoin"},
     {"chain":"Bitleu"},
     {"chain":"Maxcoin"},
